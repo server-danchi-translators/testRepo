@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo_calc_export scriptVersion="2.2.0_qdxml" scriptUpdate="2011-03-02" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptAuthor="vjl">
+  <ooo_sheet num="1">
+    <ooo_row><column_1>ItemID</column_1><column_2>Name</column_2><column_3>Desc</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100010</column_1><column_2>Throw Lantern</column_2><column_3>Required: Lantern
+
+
+
+Throws your equipped lantern on the enemy, creating a zone of fire for 5 seconds.
+
+
+
+Using this skill destroys the lantern.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100020</column_1><column_2>Predator Leap</column_2><column_3>Required: Rage Boon, Melee Weapon
+
+
+
+Jumping attack that creates a shockwave upon landing, with high Impact and Damage. Requires the Rage boon.</column_3><column_4></column_4><column_5></column_5><column_6>Lower weapons</column_6></ooo_row>
+    <ooo_row><column_1>8100030</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100040</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100050</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100060</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100070</column_1><column_2>Backstab</column_2><column_3>Required: Dagger
+
+
+
+Dagger attack. If the attack hits the enemy’s back, the damage and impact are tripled.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100071</column_1><column_2>Opportunist Stab</column_2><column_3>Required: Dagger
+
+
+
+Dagger attack. If the enemy has the Pain or Confusion hex, this attack’s damage and knockback are doubled. If it has both, they are quadrupled instead.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100072</column_1><column_2>Dagger Slash</column_2><column_3>Required: Dagger
+
+
+
+Simple attack with the dagger.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100080</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100090</column_1><column_2>Flamethrower</column_2><column_3>Required: Torch or Lantern
+
+
+
+Shoots fire from the torch or lantern, which also inflicts the Burning status effect.
+
+
+
+This skill lowers the durability of the torch or lantern used.</column_3><column_4></column_4><column_5></column_5><column_6>Consumes some of the lantern's durability.</column_6></ooo_row>
+    <ooo_row><column_1>8100100</column_1><column_2>Evasion Shot</column_2><column_3>Required: Bow
+
+
+
+Shoot an arrow while jumping backwards. Causes the Cripple status effect on the target.
+
+
+
+Locking on foes is essential with this skill.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100101</column_1><column_2>Sniper Shot</column_2><column_3>Required: Bow
+
+
+
+Let loose a very strong arrow shot with a long windup, making it a poor option in the middle of combat.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100102</column_1><column_2>Piercing Shot</column_2><column_3>Required: Bow
+
+
+
+Strong shot that goes through enemies and hits other foes behind. Inflicts Extreme Bleeding.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100110</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100120</column_1><column_2>Push Kick</column_2><column_3>Weak attack that excels at knocking back enemies. </column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100121</column_1><column_2>Sweep Kick</column_2><column_3>Weak attack with a wide arc of effect and high Impact. Will knock down a target afflicted by the Confusion status effect.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100130</column_1><column_2>Mana Push</column_2><column_3>Spell which inflicts no damage but has high Impact in a wide area in front of the caster. 
+
+
+
+Can be combined with other spells for powerful effects.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100140</column_1><column_2>Mana Ward</column_2><column_3>Envelops you in Mana and, for an instant, you become immune to Damage.
+
+
+
+Can be combined with other spells for powerful effects.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100150</column_1><column_2>Conjure</column_2><column_3>Spell which does nothing on its own, but can be combined with other abilities.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100190</column_1><column_2>Shield Charge</column_2><column_3>Required: Shield
+
+
+
+Rush forward to hit foes with your shield for high Impact. Can hit the target twice and inflict the Confusion status effect.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100200</column_1><column_2>Gong Strike</column_2><column_3>Required: Infused Weapon, Shield
+
+
+
+Strike your weapon on your shield, removing the elemental infusion to make an explosion of that element.</column_3><column_4></column_4><column_5></column_5><column_6>Lowers the weapon’s durability by 6%.</column_6></ooo_row>
+    <ooo_row><column_1>8100210</column_1><column_2>Rune: Dez</column_2><column_3>Required: Lexicon
+
+
+
+Blue rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100220</column_1><column_2>Rune: Shim</column_2><column_3>Required: Lexicon
+
+
+
+Red rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100230</column_1><column_2>Rune: Egoth</column_2><column_3>Required: Lexicon
+
+
+
+Purple rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100240</column_1><column_2>Rune: Fal</column_2><column_3>Required: Lexicon
+
+
+
+Green rune that does nothing on its own, but can produce combo effects by casting other runes, in the correct order.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100250</column_1><column_2>Chakram Pierce</column_2><column_3>Required: Chakram, Discipline Boon
+
+
+
+Launch the disc forward, possibly hitting the enemy twice. Discipline is required to cast this spell.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100251</column_1><column_2>Chakram Dance</column_2><column_3>Required: Chakram, Discipline Boon
+
+
+
+The disc sways left and right as it advances, hitting multiple times and dealing high damage. Discipline is required to cast this spell.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100252</column_1><column_2>Chakram Arc</column_2><column_3>Required: Chakram, Discipline Boon
+
+
+
+The disc sweeps the area in front of the caster, dealing high Damage and Impact. Discipline is required to cast this spell.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100260</column_1><column_2>Counterstrike</column_2><column_3>Required: Any Melee Weapon
+
+
+
+Completely block a physical attack, striking the attacker and dealing high Damage.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100261</column_1><column_2>Serpent's Parry</column_2><column_3>Required: Dagger
+
+
+
+Counter a physical attack with a strong dagger strike. Targets afflicted by Confusion are briefly stunned. Targets afflicted by Pain will be inflicted Extreme Bleeding.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100270</column_1><column_2>Mace Infusion</column_2><column_3>Required: 1-Handed Bludgeon
+
+
+
+Block an elemental attack,  infusing your weapon with that element.</column_3><column_4></column_4><column_5></column_5><column_6>Reduces the weapon’s durability by 10.</column_6></ooo_row>
+    <ooo_row><column_1>8100280</column_1><column_2>Flash Onslaught</column_2><column_3>Required: Any Melee Weapon, Discipline Boon.
+
+
+
+Attack all enemies within a close distance with increased Damage and Impact. Using the skill consumes the Discipline boon.</column_3><column_4></column_4><column_5></column_5><column_6>Reduces the weapon's durability by 2% per hit.</column_6></ooo_row>
+    <ooo_row><column_1>8100290</column_1><column_2>Puncture</column_2><column_3>Required: 1-Handed Sword
+
+
+
+Close combat attack which deals high Damage and Impact, and inflicts Pain.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100300</column_1><column_2>Execution</column_2><column_3>Required: 2-Handed Axe
+
+
+
+High Damage and Impact strike that deals twice its Damage against knocked down foes.</column_3><column_4></column_4><column_5></column_5><column_6>Reduces the weapon's durability by 5.</column_6></ooo_row>
+    <ooo_row><column_1>8100310</column_1><column_2>Juggernaut</column_2><column_3>Required: 2-Handed Bludgeon
+
+
+
+Slow but powerful melee attack that inflicts Confusion. Increases your Impact Resistance during this attack.</column_3><column_4></column_4><column_5></column_5><column_6>Reduces the weapon's durability by 6.</column_6></ooo_row>
+    <ooo_row><column_1>8100320</column_1><column_2>Moon Swipe</column_2><column_3>Required: Halberd, Staff
+
+
+
+Double attack that deals high damage, and that increases in power if you have the Rage or Discipline boons.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8100330</column_1><column_2>Shield Infusion</column_2><column_3>Required: Shield
+
+
+
+Block an elemental attack. When you next block, an elemental explosion will burst from you.</column_3><column_4></column_4><column_5></column_5><column_6>Reduces your shield's durability by 12.</column_6></ooo_row>
+    <ooo_row><column_1>8100340</column_1><column_2>Simeon's Gambit</column_2><column_3>Required: Spear
+
+
+
+Deflect a melee attack and counter with a powerful strike. You will still strike if no attack was deflected, but for less damage,</column_3><column_4></column_4><column_5></column_5><column_6>Reduce the weapon's durability by 5.</column_6></ooo_row>
+    <ooo_row><column_1>8100350</column_1><column_2>Perfect Strike</column_2><column_3>Required: Any Melee Weapon, Discipline Boon
+
+
+
+Lunging attack that ignores all defenses and inflicts Pain.</column_3><column_4></column_4><column_5></column_5><column_6>Reduce the weapon’s durability by 3%.</column_6></ooo_row>
+    <ooo_row><column_1>8100360</column_1><column_2>Brace</column_2><column_3>Blocks an attack, restoring your Stability and giving you the Discipline boon.
+
+
+
+All nearby enemies are knocked back.</column_3><column_4></column_4><column_5></column_5><column_6>Instantly restores your stability and assume a bracing stance which defends against 90% of incoming Damage and Impact. Gain Discipline if you blocked an attack this way.</column_6></ooo_row>
+    <ooo_row><column_1>8100362</column_1><column_2>Pommel Counter</column_2><column_3>Required: 2-Handed Sword
+
+
+
+Counter an attack with a high Impact strike using the sword’s pommel. Inflicts Confusion and can chain into melee attacks.</column_3><column_4></column_4><column_5></column_5><column_6>Reduces the weapon's durability by 6.</column_6></ooo_row>
+    <ooo_row><column_1>8100370</column_1><column_2>Feral Strikes</column_2><column_3>Required: Melee Weapon, Rage Boon
+
+
+
+Attack twice, consuming your Rage boon in the process. Inflicts Extreme Bleeding and Pain.</column_3><column_4></column_4><column_5></column_5><column_6>Reduces the weapon's durability by 3% per hit.</column_6></ooo_row>
+    <ooo_row><column_1>8100380</column_1><column_2>Talus Cleaver</column_2><column_3>Required: 1-Handed Axe
+
+
+
+Low blow that reduces the target's mobility. Inflicts Pain and Cripple.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200010</column_1><column_2>Reveal Soul</column_2><column_3>Reveal the blueish soul orb left by deceased thieves and adventurers.
+
+
+
+Certain spells must be cast in proximity to a soul.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200020</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200021</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200030</column_1><column_2>Sigil of Wind</column_2><column_3>Required: Activated Wind Altar
+
+
+
+Create a magic circle on the ground. Certain skills have additional effects when cast within this circle.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200031</column_1><column_2>Sigil of Fire</column_2><column_3>Consumes: Fire Stone
+
+
+
+Create a magic circle on the ground. Certain skills have additional effects when cast within this circle.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200032</column_1><column_2>Sigil of Ice</column_2><column_3>Consumes: Cold Stone
+
+
+
+Create a magic circle on the ground. Certain skills have additional effects when cast within this circle.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200040</column_1><column_2>Spark</column_2><column_3>Tiny fire explosion that deals negligible damage, but can be used in combination with other spells for greater effects.
+
+
+
+This spell can light campfires.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200100</column_1><column_2>Infuse Light</column_2><column_3>Required: Blessed Boon
+
+
+
+Temporarily adds Lightning Damage to your melee weapon, also making the weapon a useful light source. Consumes your Blessed boon.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200101</column_1><column_2>Infuse Wind</column_2><column_3>Required: Activated Wind Altar
+
+
+
+Increases the Impact and Attack Speed of your melee weapon, for 3 minutes.
+
+
+
+Your stamina burn increases more quickly, however.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200102</column_1><column_2>Infuse Frost</column_2><column_3>Required: Cool Boon
+
+
+
+Temporarily adds Frost damage to your melee weapon and inflicts Slow Down on enemies. Consumes your Cool boon.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200103</column_1><column_2>Infuse Fire</column_2><column_3>Required: Warm Boon
+
+
+
+Temporarily adds Fire damage to your melee weapon and inflicts Burning on enemies. Consumes your Warm boon.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200111</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200300</column_1><column_2>Call to Elements</column_2><column_3>Grants you a boon that varies according to your location when casting this spell.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200310</column_1><column_2>Elemental Discharge</column_2><column_3>Required: Infused Weapon
+
+
+
+Shoot a projectile of the element that is infused on your weapon.</column_3><column_4></column_4><column_5></column_5><column_6>Reduce the weapon's durability by 4%</column_6></ooo_row>
+    <ooo_row><column_1>8200600</column_1><column_2>Fire/Reload</column_2><column_3>Required: Pistol, Bullet
+
+
+
+Load the equipped pistol with a bullet, or fires if it is already loaded.
+
+
+
+Some abilities load special bullets into your pistol, which are fired using this skill.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200601</column_1><column_2>Frost Bullet</column_2><column_3>Required: Pistol, Cool Boon
+
+
+
+Load the pistol with a bullet that makes a short-distance blast which slows enemies. Removes your Cool boon.
+
+
+
+Shooting it requires the use of the Fire/Reload skill.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200602</column_1><column_2>Blood Bullet</column_2><column_3>Required: Pistol, Possessed Boon
+
+
+
+Absorb the enemy’s life into your pistol as a blood bullet, healing yourself.
+
+
+
+Shooting it requires the use of the Fire/Reload skill.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200603</column_1><column_2>Shatter Bullet</column_2><column_3>Required: Pistol, Iron Scraps
+
+
+
+Load a bullet with high Impact which also inflicts Pain.
+
+
+
+Shooting it requires the use of the Fire/Reload skill.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205000</column_1><column_2>Marathoner</column_2><column_3>Sprinting consumes 40% less stamina.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205010</column_1><column_2>Weather Tolerance</column_2><column_3>Increases your Hot and Cold Weather Defense by 8. 
+
+
+
+Increases your Decay Resistance by  5.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205020</column_1><column_2>Spellblade's Awakening</column_2><column_3>Increases your maximum Health, Stamina and Mana by 15 each.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205030</column_1><column_2>Steady Arm</column_2><column_3>Increases Impact Resistance by 15 while your are blocking.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205040</column_1><column_2>Fitness</column_2><column_3>Increases your maximum Health by 25 and the amount of Health you restore while sleeping by 20%</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205050</column_1><column_2>Master of Motion</column_2><column_3>While under the effect of the Discipline boon, Impact Resistance and all damage resistances are increased by 15.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205060</column_1><column_2>Steadfast Ascetic</column_2><column_3>Increases your maximum Stamina by 40.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205070</column_1><column_2>Slow Metabolism</column_2><column_3>It takes more time for you to become hungry, thirsty and sleepy.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205080</column_1><column_2>Fire Affinity</column_2><column_3>Increase your resistance to Fire by 20 and the Fire damage you inflict is increased by 15%</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205090</column_1><column_2>Leyline Connection</column_2><column_3>You regain 0.15 mana per second.
+
+
+
+This is a constant effect.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205100</column_1><column_2>Survivor's Resilience</column_2><column_3>Increases your maximum Health by 40.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205110</column_1><column_2>Well of Mana</column_2><column_3>Increases your maximum Mana by 40.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205120</column_1><column_2>Swift Foot</column_2><column_3>Your movement speed is increased by 10%</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205130</column_1><column_2>Feather Dodge</column_2><column_3>Lowers the Stamina cost of dodging by 50% and allows you to dodge unimpeded even when wearing a backpack.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205140</column_1><column_2>Fast Maintenance</column_2><column_3>You repair your equipment 50% faster when you allocate time to Repairing in the rest menu.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205150</column_1><column_2>Shamanic Resonance</column_2><column_3>The effects of boons on you are increased.
+
+
+
+For example, a boon that increases your Fire Resistance by 20 would increase it by 30 instead.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205160</column_1><column_2>Hunter's Eye</column_2><column_3>You can lock on enemies at longer distances when using a bow.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205170</column_1><column_2>Internalized Lexicon</column_2><column_3>Removes the need to have an equipped Lexicon in your off-hand to cast runic spells.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205180</column_1><column_2>Arcane Syntax</column_2><column_3>Gain access to more advanced runic combos.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205190</column_1><column_2>Stealth Training</column_2><column_3>Enemies will have a harder time spotting you.
+
+
+
+Sprinting and having a light source will still easily alert them, though.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205200</column_1><column_2>Runic Prefix</column_2><column_3>All runic spells are more powerful or have added effects.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205210</column_1><column_2>Pressure Plate Training</column_2><column_3>Enables you to deploy the complex Pressure Plate Traps.
+
+
+
+These traps are primarily armed with charges, which shoot poison, fire and more.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205220</column_1><column_2>Armor Training</column_2><column_3>Decreases the stamina and movement penalties from wearing armor by 50%</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205230</column_1><column_2>Pressure Plate Expertise</column_2><column_3>Increases the power of your Pressure Plate Traps.
+
+
+
+Allows the reuse of Pressure Plates after they have been triggered, though they must be re-armed with another charge or compatible item.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200110</column_1><column_2>Enrage</column_2><column_3>Grants the Rage boon, which increases the Impact of your attacks.
+
+
+
+Using this skill burns a bit of your maximum health until the next time you sleep.
+
+
+
+Certain skills require this boon to be active.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200120</column_1><column_2>Focus</column_2><column_3>Grants the Discipline boon, which increases the Physical Damage of your attacks.
+
+
+
+Using this skill burns a bit of your maximum stamina until the next time you sleep.
+
+
+
+Certain skills require this boon to be active.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200130</column_1><column_2>Warm</column_2><column_3>Grants the Warm boon, which increases your Fire Damage and Fire Resistance. It also increases your protection to cold weather.
+
+
+
+Certain skills require this boon to be active.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200140</column_1><column_2>Cool</column_2><column_3>Grants the Cool boon, which increases your Frost Damage and Frost Resistance. It also increases your protection to hot weather.
+
+
+
+Certain skills require this boon to be active.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200150</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200160</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200170</column_1><column_2>Mist</column_2><column_3>Grants the Mist boon, which increases your Ethereal Damage and Ethereal Resistance.
+
+
+
+Certain skills require this boon to be active.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200180</column_1><column_2>Blessed</column_2><column_3>Grants the Blessed boon, which increases your Lightning Damage and Lightning Resistance.
+
+
+
+Certain skills require this boon to be active.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200190</column_1><column_2>Possessed</column_2><column_3>Grants the Possessed boon, which increases your Decay Damage and Decay Resistance.
+
+
+
+Certain skills require this boon to be active.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200210</column_1><column_2>Confusion</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200220</column_1><column_2>Pain</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200230</column_1><column_2>Burn</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200240</column_1><column_2>Chill</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200250</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200260</column_1><column_2>-</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200270</column_1><column_2>Haunted</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200280</column_1><column_2>Doom</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8200290</column_1><column_2>Curse</column_2><column_3>-</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205240</column_1><column_2>Spiritual Communion</column_2><column_3>Increases the Etheral, Lightning and Decay damage you deal by 10%.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205250</column_1><column_2>Ghostly Sensitivity</column_2><column_3>Curse that lowers your Ethereal Resistance by 15.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205260</column_1><column_2>Sacrifice</column_2><column_3>Decreases your maximum Stamina by 7.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205261</column_1><column_2>Painful Sacrifice</column_2><column_3>Decreases your maximum Stamina by 15.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205270</column_1><column_2>Purified</column_2><column_3>Increases your Decay Resistance by 20.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205280</column_1><column_2>Acceptance</column_2><column_3>Increases your Cold and Hot Weather Defense by 8.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205290</column_1><column_2>Divine Protection</column_2><column_3>Increases your Physical Protection by 4.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205300</column_1><column_2>Sanctified Protection</column_2><column_3>Increases your Physical Protection by 2.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205310</column_1><column_2>Divine Assistance</column_2><column_3>Reduces the Stamina and Mana costs of your actions by 10%.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205311</column_1><column_2>Sanctified Assistance</column_2><column_3>Reduces the Stamina and Mana costs of your actions by 5%.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205320</column_1><column_2>Peacemaker Elixir</column_2><column_3>Increases your maximum Health, Stamina and Mana by 20.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205330</column_1><column_2>Blood of Giants</column_2><column_3>Increases your maximum Health by 40.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205340</column_1><column_2>Ancestors' Memories</column_2><column_3>Increases your maximum Mana by 25.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205350</column_1><column_2>Alchemical Experiment</column_2><column_3>Increases all Damage you deal by 15%.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8205999</column_1><column_2>Exalted</column_2><column_3>Double all the Damage you deal. Reduce the Stamina and Mana costs of your actions by 30%. Increase all Damage Resistances by 10. 
+
+
+
+You are inflicted with the incurable “Life Drain” sickness.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Exalted_Client</column_1><column_2>Exalted</column_2><column_3>The divine benediction seems to have no effect in this foreign world.</column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8400010</column_1><column_2>Pet Pearlbird</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8400020</column_1><column_2>Fireworks</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>8400011</column_1><column_2>Pet Crescent Shark</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+</ooo_calc_export>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo_calc_export scriptVersion="2.2.0_qdxml" scriptUpdate="2011-03-02" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptAuthor="vjl">
+  <ooo_sheet num="1">
+	<!-- Cierzoシエルゾはスペインの北から吹く猛烈なからっ風 --><ooo_row><column_1>Errand_Cierzo_BK_01</column_1><column_2>シエルゾCierzoの鍛冶屋へ青い砂Blue Sandを持ち込むと青い砂の鎧の部品pieces of Blue Sand Armorを作れる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Cierzo_BK_02</column_1><column_2>シエルゾCiezoで鎧の部品aromor pieceが完成するまで24時間待つ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Cierzo_BK_03</column_1><column_2>完成した鎧の部品armor pieceを受取りにシエルゾCierzoの鍛冶屋へ戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+	<!-- Levantエル・レヴァンテ(スペイン語で東)は地中海に吹く東風 --><!-- ラテン語Tenebraeは闇、毒、死の凶兆、心の闇を指す --><ooo_row><column_1>Errand_Levant_BK_01</column_1><column_2>レヴァンテLevantの鍛冶屋へツァーリの宝玉Tsar Stonesを持ち込むとツァーリの鎧と暗闇の鎧の部品pieces of Tsar Armor and Tenebrous Armorを作れる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Levant_BK_02</column_1><column_2>レヴァンテLevantでaromor pieceが完成するまで24時間待つ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Levant_BK_03</column_1><column_2>完成した鎧の部品armor pieceを受取りにレヴァンテLevantの鍛冶屋へ戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <!-- Monsoonモンスーンは季節によって向きの変わる風(季節風) --><ooo_row><column_1>Errand_Monsoon_BK_01</column_1><column_2>モンスーンMonsoonの鍛冶屋へパラジウムのスクラップPalladium Scrapsを持ち込むとパラジウムの鎧の部品pieces of Palladium Armorを作れる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Monsoon_BK_02</column_1><column_2>モンスーンMonsoonで鎧の部品aromor pieceが完成するまで24時間待つ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Monsoon_BK_03</column_1><column_2>完成した鎧の部品armor pieceを受取りにモンスーンMonsoonの鍛冶屋へ戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+	<!-- Bergバーグウインド(アフリカーンス語で山の風)は南アフリカの高地から海へ下る熱風 --><ooo_row><column_1>Errand_Berg_BK_01</column_1><column_2>バーグBergの鍛冶屋へコーパルCopalか珪化木Petrified Woodを持ち込むとコーパルの鎧と珪化木の鎧の部品pieces of Copal Armor and Petrified Wood Armorを作れる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Berg_BK_02</column_1><column_2>バーグBergで鎧の部品aromor pieceが完成するまで24時間待つ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Berg_BK_03</column_1><column_2>完成した鎧の部品armor pieceを受取りにバーグBergの鍛冶屋へ戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Cierzo_Alch_01</column_1><column_2>シエルゾCierzoの錬金術師ヘルミHelmiに水晶の粉Crystal Powderを持ち込むと錬金術キットAlchemy Kitで加工してくれる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Berg_Alch_01</column_1><column_2>バーグBergの錬金術師ヴェイVayに冷石Cold Stoneを持ち込むと錬金術キットAlchemy Kitで加工してくれる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Cierzo_General_01</column_1><column_2>バーグBergの雑貨店の店主に話しかけて帳簿を届ける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Levant_General_01</column_1><column_2>シエルゾCierzoの雑貨店の店主に話しかけて帳簿を届ける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Monsoon_General_01</column_1><column_2>レヴァンテLevantの雑貨店の店主に話しかけて帳簿を届ける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Berg_General_01</column_1><column_2>モンスーンMonsoonの雑貨店の店主に話しかけて帳簿を届ける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Cierzo_Cook_01</column_1><column_2>シエルゾCierzoのMaster-Chef AragoはCierzo Cevicheを探している</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Berg_Assassin_01</column_1><column_2>バーグBergに居るカジテKaziteのアサシン,オゴイOgoi the Kazite AssassinはビーストゴーレムのスクラップBeast Golem scraps2つを探している</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Berg_Food_01</column_1><column_2>バーグBergのシェフ,イアスChef Iasuはマンティコアの尾Manticore Tailを探している</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Levant_Food_01</column_1><column_2>レヴァンテLevantのシェフ,テンノChef Tennoは鮫の軟骨Shark Cartilageを探している</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Helen_01</column_1><column_2>シエルゾCierzoから北東にある,あばた穴Blister Burrowsの奥底からキノコの盾Mushroom Shieldを手に入れる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Helen_02</column_1><column_2>シエルゾCierzoのヘレン・ターンブルHelen Turnbullへキノコの盾Mushroom Shieldを持っていく</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Lost_01</column_1><column_2>砂漠で行方知れずとなった商人が死ぬ前に発見し,行糧Travel Rationを与えて救助する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Lost_02</column_1><column_2>レヴァンテスラムLevant’s slumsのタマラTamaraに失敗を報告する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Lost_03</column_1><column_2>レヴァンテスラムLevant’s slumsのタマラTamaraに成功を報告する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Treasure_01</column_1><column_2>手がかりを追って宝を見つける
+
+第1の手がかり: 砂に埋もれたボートの船室を見つける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Treasure_02</column_1><column_2>第2の手がかり:大森林giant forestの蜂の巣を調べる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Treasure_03</column_1><column_2>第3の手がかり:沼の悪所swamp's poisonで爪と牙のすみかを探す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Treasure_04</column_1><column_2>第4の手がかり:アブラサル砂漠Abrassar desertの古いドックに入り,レバーを動かす</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Treasure_05</column_1><column_2>古いドックにある宝を手に入れる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Slum_01</column_1><column_2>自称レヴァンテスラムLevant's slumsのリーダー,ピジョンアイPigeoneyeに銀を渡す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Slum_02</column_1><column_2>ピジョンアイPigeoneyeにもう一度出資する.(ホントにちゃんとした目的で使われるはず)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Slum_03</column_1><column_2>ピジョンアイPidgeoneyeが更に金銭を要求している.(大丈夫だ、ドブに金を捨てるようなことは無いはず)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Slum_04</column_1><column_2>出資の見返りとして貴重品を売る店がスラムに作られたが,ピジョンアイPigeoneyeはまだ出資を要求している...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Slum_05</column_1><column_2>ピジョンアイPigeoneyeはまだ出資を要求している.(この出資で最後だし、スラムでできることが増えるはず)</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_MageBackpack_01</column_1><column_2>聖なる沼Hallowed Marshに現れる霊をもう一度見つける.あの亡霊は何か伝えたいことがあったようだ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_MageBackpack_02</column_1><column_2>更に霊を見つける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_MageBackpack_03</column_1><column_2>更に更に霊を見つける</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_MageBackpack_04</column_1><column_2>もう一度霊を見つける.あの亡霊は何かくれるのかもしれない</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Machine_01</column_1><column_2>アブラサルAbrassar地方の電気研究所Electric Labのすぐ近くで妨害しているものを壊す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Machine_02</column_1><column_2>電気研究所Electric Lab内の機械まで戻る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Machine_03</column_1><column_2>ゴーレムを解体すれば妨害が弱まるようだ.近くの他のゴーレムも壊す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <!-- Chersoneseはゲリボル半島のギリシャ名「乾いた島」,転じて半島全般も指す。Confluxは合流、合流地点 --><ooo_row><column_1>Errand_Mana_01</column_1><column_2>マナmanaを得るため,ケーサニースChersoneseのカナメ山Conflux Mountainの真ん中に行く.代償としてヘルスhealthとスタミナstaminaが奪われたままになる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Myriade_01</column_1><column_2>ケーサニースChersoneseの退廃の墓地Corrupted TombsでミリアドMyriadeの骨を全て集める.頭から始めよう</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Myriade_02</column_1><column_2>胴を探す,照明のついたトロッコの近くだ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Myriade_03</column_1><column_2>腕を探す,マナ結晶mana crystalの近くだ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Myriade_04</column_1><column_2>腕を探す,脚だらけの生物の近くの高いところにある</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Myriade_05</column_1><column_2>脚を探す,水辺にある</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Myriade_06</column_1><column_2>任意[Optional] 魔法の封印を無理やり解くためにミリアドMyriadeを倒す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Myriade_07</column_1><column_2>ミリアドMyriadの体にすべての骨を戻す</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Idol_01</column_1><column_2>古代人の頭Face of the Ancientsとして知られるダンジョンで,紅の方Scarlet Ladyの持ち物である小さな像を探す 
+
+
+
+ダンジョンはエンメルカルの森Enmerkar Forestにある</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Idol_02</column_1><column_2>任意[Optional] 赤の方Red Ladyの像に小像を捧げる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Idol_03</column_1><column_2>小像を研究者ボイエResearcher Boyeに持っていく</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_GoldLich_01</column_1><column_2>聖なる沼Hallowed Marshの光の尖塔Light Spireで金面のリッチGold-Mask Lichと戦うために,玉座を調べる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_GoldLich_02</column_1><column_2>金面のリッチGold-Mask Lichからの3つの報酬を選ぶ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_GoldLich_03</column_1><column_2>尖塔の機構が材料を集めるまで1週間待つ</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_GoldLich_04</column_1><column_2>光の尖塔Light Spireの頂上で有用な鉱物を受け取る</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_JadeLich_01</column_1><column_2>聖なる沼Hallowed Marshの闇のジッグラトDark Zigguratで翡翠面のリッチJade-Mask Lichと戦うために,玉座を調べる</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_JadeLich_02</column_1><column_2>ツァーリの宝玉,ハクマナイトHackmaniteとパラジウムPalladiumを持って闇のジッグラトDark Zigguratに戻り,ツァーリ武器を作ってもらう</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_BlueSkull_01</column_1><column_2>バーグBerg地下のネクロポリスNecropolisから青い頭蓋骨Blue Skullsを4つすべて入手する</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_BlueSkull_02</column_1><column_2>ネクロポリスNecropolisの奥のクレミューCremeuhへ持っていく</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Errand_Water_01</column_1><column_2>水浄化装置を修理するために,シエルゾCierzoの技術者エティオスEtiosにパワーコイルPower Coils2つを持っていく</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="2">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Intro_01</column_1><column_2>Find someone who can help.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Intro_02</column_1><column_2>Rest in one of the campsite’s bedrolls.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Intro_03</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Intro_04</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Intro_05</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_01</column_1><column_2>Speak to Rissa Aberdeen, in the village of Cierzo.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_02</column_1><column_2>Pay 150 silver to Rissa within 5 days or you’ll lose your lighthouse in Cierzo.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_03</column_1><column_2>Blood Price payment complete.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_04</column_1><column_2>You have lost your lighthouse. Talk to Rissa.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_05</column_1><column_2>[Optional] Give the Writ of Tribal Favor to Rissa instead of 150 silver.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_06</column_1><column_2>[Optional] Give Bandages or a Life Potion to Michel Aberdeen.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_07</column_1><column_2>Found a corpse of a sailor on the beach. If he’d been found sooner...</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_08</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_09</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Call-to_Adv_10</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_00</column_1><column_2>Talk to Rissa in the village of Cierzo.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_01</column_1><column_2>In cities, the location of important characters can be seen on the map.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_02</column_1><column_2>Talk to Oliele in the village of Cierzo.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_03</column_1><column_2>Go to a city in the Enmerkar Forest, the Hallowed Marsh or the Abrassar desert to join a faction. Innkeepers can give you directions.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_04</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_05</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_06</column_1><column_2>Do a small task for Sagard, Julius, or Gabriella in Berg.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_07</column_1><column_2>Do a small task for Cyrene or Baron Montgomery in Levant.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_08</column_1><column_2>Do a small task for Zephyrien, Lockwell, or Mofat in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_09</column_1><column_2>Joined the Blue Chamber Collective.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_10</column_1><column_2>Joined the Holy Mission of Elatt.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_11</column_1><column_2>Joined the Heroic Kingdom of Levant.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_12</column_1><column_2>Talk to Yzan in the village of Cierzo.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_13</column_1><column_2>Talk to Rissa in the village of Cierzo.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_14</column_1><column_2>To join the Blue Chamber, talk to Rissa, inside Berg’s east quarter.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_15</column_1><column_2>To join the Heroic Kingdom, talk to Yzan, in Levant’s north-west quarter.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_16</column_1><column_2>To join the Holy Mission, talk to Oliele, near Monsoon’s entrance.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_17</column_1><column_2>Talk to Cardinal Bourlamaque in Monsoon’s temple.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_18</column_1><column_2>Talk to Rissa in Berg, then commit to the faction.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_19</column_1><column_2>Talk to Queen Calixa, in Levant’s palace, and commit to the faction.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_20</column_1><column_2>Talk to Cardinal Bourlamaque in Monsoon’s temple.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_prequests_21</column_1><column_2>Go to Elatt’s altar at the back of Monsoon’s temple, then commit to the faction.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_01</column_1><column_2>Stop the 3 warlords in the Fortress of Vendavel, located in the south-west of the Chersonese.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_02</column_1><column_2>Deal with Crock, the drunkard Warlord.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_03</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_04</column_1><column_2>Deal with Balira, the Witch Warlord.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_05</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_06</column_1><column_2>Deal with Rospa, the Kazite Warlord.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_07</column_1><column_2>Kill Rospa in Vendavel or convince Eto, the trainer in Cierzo, to sacrifice himself.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_08</column_1><column_2>Talk to Burac in Cierzo for a reward.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_09</column_1><column_2>Vendavel’s warlords have attacked Cierzo by now…</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_10</column_1><column_2>Cierzo has been devastated.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_11</column_1><column_2>Kill the Wendigo inside the Corrupted Tomb, on the other side of the Ghost Pass, to the north-east of the Chersonese.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_vendavel_12</column_1><column_2>Talk to Balira in Vendavel.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_00</column_1><column_2>Find white-clad missionaries on the Pilgrim Road, flanked with luminous Sun-Pillars, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_01</column_1><column_2>Return to Cardinal Bourlamaque, in Monsoon's temple.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_02</column_1><column_2>Talk to Mofat in the city of Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_03</column_1><column_2>Talk to Mofat in the city of Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_04</column_1><column_2>Talk to Mofat in the city of Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_05</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_06</column_1><column_2>Talk to the Philosopher Trainer Alemmon, in the north-east of Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_07</column_1><column_2>Find the bandit hideout on spiraling cliffs, in the Hallowed Marsh's west.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_08</column_1><column_2>Investigate the hideout for several pieces of evidence.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_09</column_1><column_2>Go to the city of Berg, in the Enmerkar Forest, to warn someone in a position of authority.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_10</column_1><column_2>[Optional] Confront Jager Sullivan in the City of Berg, in the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_11</column_1><column_2>[Optional] Present the evidence to Lockwell, in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_12</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_13</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_14</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_15</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_16</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_17</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_18</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_Purifier_19</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_01</column_1><column_2>Find the priest who fled into the desert, in Abrassar’s south-west.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_02</column_1><column_2>I found a clue in the slums. I should check in the small hive prison south of Abrassar, if I haven’t done so already.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_03</column_1><column_2>Find a clue inside a wooden outpost in the burnt forest, in Enmerkar’s south.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_04</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_05</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_06</column_1><column_2>Find a clue in the Levant’s slums, in Abrassar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_06-b</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_07</column_1><column_2>Talk to Cyrene, in the city of Levant, in the Abrassar desert.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_08</column_1><column_2>Find Prince Pietro in the Undercity Passage, under Levant’s slums.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_09</column_1><column_2>Find a clue inside the small hive prison in the south of Abrassar, north of the largest hive.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_10</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_11</column_1><column_2>The prince’s murderer has already been captured.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_12</column_1><column_2>Talk to Queen Calixa for a reward, in the Palace of Levant.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_13</column_1><column_2>Any evidence that would solve the murder is long gone…</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_BloodUnderSun_14</column_1><column_2>Find a clue, with your only lead being insect chitin found in Abrassar’s southern hives.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Neut_EarnedRest_01</column_1><column_2>Enjoy the peace you helped create.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="3">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_00</column_1><column_2>Rissa, in the city of Berg, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_00-b</column_1><column_2>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_01</column_1><column_2>Go to the Blue Chamber in Berg, then talk to Rissa.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_01-b</column_1><column_2>Go to Berg’s inn.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_01-c</column_1><column_2>Go back to the Blue Chamber and eliminate the threat.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_02</column_1><column_2>Find Balthazar and clues in the Ancestor’s Resting Place, via the Necropolis under the Blue Chamber.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_03</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_04</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_05</column_1><column_2>Rescue Rissa from an outpost in the burnt forest in the south of Enmerkar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_06</column_1><column_2>Talk to Rissa, in Berg.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_07</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_08</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_09</column_1><column_2>[Optional] Kill the mercenary leader in the Enmerkar Forest, in the south of the region.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_10</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_11</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_12</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Mix_Legacy_13</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_00</column_1><column_2>Rissa, in the city of Berg, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_00-b</column_1><column_2>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_01</column_1><column_2>Talk to the Ash Giant highlord in their village, in the north-east of the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_02</column_1><column_2>[Optional] Prepare for the negotiations by talking to other giants or scholars.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_02-b</column_1><column_2>Find a rare root that grows in the Reptilian Lair, in the center of the Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_03</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_04</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_05</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_06</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_07</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_08</column_1><column_2>Talk to Gold Belly, the Ash Giant.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_09</column_1><column_2>[You have been banished from the Ash Giant’s village, permanently.]</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_10</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_11</column_1><column_2>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_12</column_1><column_2>Talk to Highlord Cyr, in the Giant’s village, in the north-east of the Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Giants_13</column_1><column_2>Negotiate an alliance with the Giant’s village, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_00</column_1><column_2>Rissa, in the city of Berg, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_00-b</column_1><column_2>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_01</column_1><column_2>Find Roland inside the Blue Chamber’s path in the Conflux Mountain.
+
+This mountain is the tall purple peak in the center of the Chersonese.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_02</column_1><column_2>Meet up with Roland in the Ley Line chamber, in the mountain’s core.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_03</column_1><column_2>Find Roland inside the Starfish Cave south of Cierzo.
+
+The tides only allow access to the cave at night.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_04</column_1><column_2>Talk to Gabriella, in the city of Berg, inside the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_05</column_1><column_2>[Optional] Talk to Roland, in Berg, about focusing his magical power.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_06</column_1><column_2>[Optional] Find a smith in Berg to make a trinket for Roland.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_07</column_1><column_2>[Optional] Taleron, in Berg, needs Blue Sand, a Mana Stone, and either an Emerald or a Ruby to make Roland’s focus tool.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_08</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_09</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_10</column_1><column_2>Kill the green shell horror in the Cabal of Winds’ temple, in Enmerkar Forest’s south-west.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_11</column_1><column_2>Wait 2 days for Gabriella to confirm you slew the horror. Talk to her when she has returned.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_12</column_1><column_2>Find Julius inside Berg’s Inn.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_12-b</column_1><column_2>Burn a Greasy Fern at each of the 2 altars inside the Necropolis.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_13</column_1><column_2>Talk to Rissa in the Necropolis or in Berg.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_14</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_15</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_16</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_17</column_1><column_2>Find Roland and Gabriella in the Necropolis under the Blue Chamber.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_18</column_1><column_2>Return to Gabriella in Berg, and report that you’ve killed the green shell horror.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_19</column_1><column_2>Talk to Sagard Battleborn, in Berg’s inn.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_20</column_1><column_2>Find Gabriella in the Necropolis under the Blue Chamber.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_Bones_21</column_1><column_2>Find Roland in the Necropolis, now that the barrier has vanished.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_00</column_1><column_2>Rissa, in the city of Berg, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_00-b</column_1><column_2>Talk to Rissa, in the city of Berg, in the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_01</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_02</column_1><column_2>Convince Sagard Battleborn, in Berg’s inn, to make peace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_03</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_04</column_1><column_2>Go to the temple in Monsoon, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_05</column_1><column_2>Protect Monsoon from the invading Scourge Beasts.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_06</column_1><column_2>Talk to Rissa in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_07</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_08</column_1><column_2>Enjoy the peace you helped create.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_09</column_1><column_2>Convince the Montcalm tribe, found inside the wooden fort in the Chersonese’s north, to make peace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_10</column_1><column_2>Convince the Ash Giants in their village, in the Hallowed Marsh’s north-east, to make peace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_11</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_12</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_13</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_14</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_15</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_16</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_17</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_18</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_19</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>BC_AncPeace_20</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="4">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_00</column_1><column_2>Cyrene, in the city of Levant, will have a task for you in 3 days</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_00-b</column_1><column_2>Talk to Cyrene, in the city of Levant, inside the Abrassar desert.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_01</column_1><column_2>Talk to Cyrene in the Blue Chamber. The chamber is in the city of Berg, inside the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_02</column_1><column_2>Talk to Kapros, inside the Blue Chamber, near its entrance.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_03</column_1><column_2>Leave the Blue Chamber.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_04</column_1><column_2>Report to those in the Blue Chamber about the bomb you stopped.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_05</column_1><column_2>Search the Necropolis under the Blue Chamber for clues or ask around for information.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_06</column_1><column_2>Search the tomb and caves under the Blue Chamber for clues about your attackers.
+
+Someone in the city might know something too.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_07</column_1><column_2>Rescue Kirouac from the outpost in the burnt forest in the south of Enmerkar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_08</column_1><column_2>Kill the mercenaries inside the outpost in the burnt forest, in the south of Enmerkar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_09</column_1><column_2>Kill the bandits inside the Necropolis, under the Blue Chamber.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_10</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_11</column_1><column_2>Talk to Cyrene in the city of Levant, inside Abrassar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_12</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_13</column_1><column_2>Rescue Kirouac, who’s inside the fort tower of the burnt forest at the very south of Enmerkar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_14</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_Tendflame_15</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_00</column_1><column_2>Cyrene, in the city of Levant, will have a task for you in 3 days</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_00-b</column_1><column_2>Talk to Cyrene, in the city of Levant, in the Abrassar desert.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_01</column_1><column_2>Go to Levant’s slums and find information on the Sand Corsairs.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_02</column_1><column_2>Interrogate the scouts inside a fort in Abrassar. Go south of Levant, then west into a valley.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_03</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_04</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_05</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_06</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_07</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_08</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_09</column_1><column_2>Talk to Yzan in Levant.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_10</column_1><column_2>Get to Old Levant, in the north-west of Abrassar. 
+
+Pass though a cave known as The Slide, north-west of the shipwrecks.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_11</column_1><column_2>Report to Yzan.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_12</column_1><column_2>Report to Yzan.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_13</column_1><column_2>Report to Yzan.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_14</column_1><column_2>Leave the tower and report to Yzan.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_15</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_16</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_17</column_1><column_2>Report to Cyrene.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_SandCorsairs_18</column_1><column_2>Stop the Corsair’s leader inside the Vigil tower, in the western part of Old Levant.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_00</column_1><column_2>Queen Calixia, in the Levant Palace, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_00-b</column_1><column_2>Talk to Calixa, in Levant’s Palace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_01</column_1><column_2>Go to the city of Monsoon, using a small boat in the northern docks of the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_02</column_1><column_2>Talk with Monsoon’s alchemist, Laine Aberforth.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_03</column_1><column_2>Bring Monsoon’s alchemist 5 raw Marshmelons and 1 Phytosaur Horn.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_04</column_1><column_2>Talk to the Soroborean Caravanner in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_05</column_1><column_2>Return to the alchemist in half a day.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_06</column_1><column_2>Talk to the Soroborean Caravanner in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_07</column_1><column_2>Bring an ancient tablet to the Soroborean Caravanner.
+
+The artifact is inside the Spire, in the Marsh’s south-east.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_08</column_1><column_2>Pay 300 silver to the Soroborean Caravanner.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_09</column_1><column_2>Report to Queen Calixa, in the Palace in Levant, in Abrassar Desert.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_10</column_1><column_2>Report to Queen Calixa, in the Palace in Levant, in Abrassar Desert.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_MouthsToFeed_11</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_00</column_1><column_2>Queen Calixia, in the Levant Palace, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_00-b</column_1><column_2>Talk to Queen Calixa, in Levant’s Palace, in the Abrassar desert.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_01</column_1><column_2>Find Cyrene and Yzan in the north of Abrassar, where “the boats used to be tied, high and dry.”</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_02</column_1><column_2>Confront Yzan in the old docks.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_03</column_1><column_2>[Optional] Ask around Levant for clues on the riddle.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_04</column_1><column_2>Investigate the old docks on the clifftops, in the northern part of Abrassar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_05</column_1><column_2>Go to Levant’s Palace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_06</column_1><column_2>Find a way into Levant’s Palace, though the traitors have a head start.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_07</column_1><column_2>Enter the city of Levant using the slums’ southern gate.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_08</column_1><column_2>Enter Levant’s slums.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_09</column_1><column_2>Kill the traitor commander in the Sand Rose Cave, to the far south-east of Abrassar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_10</column_1><column_2>Return to Markus, at Levant’s slums’ gate.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_11</column_1><column_2>Find someone in the slums who can help.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_12</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_13</column_1><column_2>Bring Pigeoneye, in Levant’s slums, 1 Tripwire Trap Kit and 1 set of Iron Spikes.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_14</column_1><column_2>Enter the Undercity Passage through a red door in the western part of the slums.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_15</column_1><column_2>Disperse the soldiers guarding the Undercity Passage entrance.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_15-b</column_1><column_2>Give a filled Waterskin to the soldiers guarding the Undercity Passage in the slums.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_16</column_1><column_2>Find a secret path into the Palace, in the Undercity Passage.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_17</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_18</column_1><column_2>Pay Dawne 50 silver for a way into the Palace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_18-b</column_1><column_2>Reach Levant’s Palace through the secret path.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_19</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_20</column_1><column_2>Use the key to open the Palace’s secret path.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_21</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_22</column_1><column_2>Stop Cyrene from escaping.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_23</column_1><column_2>Go to the Monsoon’s Temple, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_24</column_1><column_2>Protect Monsoon from the invading Scourge Beasts.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_25</column_1><column_2>Talk to King Simeon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_26</column_1><column_2>Enjoy the peace you helped create.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HK_HeroPeace_27</column_1><column_2>Talk to King Simeon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="5">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_00</column_1><column_2>Ellinara, in the city of Monsoon, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_00-b</column_1><column_2>Talk to Ellinara, in the city of Monsoon, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_01</column_1><column_2>Sacrifice some of your stamina on the altar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_02</column_1><column_2>Find Oliele inside the Corrupted Tomb.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_03</column_1><column_2>Move away from the altar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_04</column_1><column_2>Destroy the ghosts.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_05</column_1><column_2>Talk to Oliele.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_06</column_1><column_2>Burn Greasy Fern at the altar on the hill just west of the Marsh’s Vigil. Such plants can be found not far from the altar, or bought.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_07</column_1><column_2>Talk to Ellinara, in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_08</column_1><column_2>Find the Corrupted Tomb, in the valley beyond the Ghost Pass dungeon, in the Chersonese’s north-east.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_09</column_1><column_2>Talk to Ellinara, in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_10</column_1><column_2>This dungeon contains the source of the barrier blocking access to the corrupted altar. Find that source and disable it.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_11</column_1><column_2>Open the barrier by helping Myriade find his bones or by smashing his skull.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_12</column_1><column_2>Go in the altar in the Corrupted Tomb, now that the barrier is down.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_13</column_1><column_2>Find Myriade’s parts; his left arm, his right and and his left leg. Bring the parts to his body.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Questions_14</column_1><column_2>Talk to Oliele in the Corrupted Tomb.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_00</column_1><column_2>Ellinara, in the city of Monsoon, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_00-b</column_1><column_2>Talk to Ellinara, in the city of Monsoon, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_01</column_1><column_2>Meet Oliele at the Blue Chamber, in the city of Berg, inside the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_02</column_1><column_2>[Optional] Find Zephyrien, who went missing in the far south-east of Enmerkar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_03</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_04</column_1><column_2>Talk to Ellinara, in the city of Monsoon, inside the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_05</column_1><column_2>Talk to Lockwell, in Monsoon, about freeing Oliele.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_06</column_1><column_2>Give enough coin to Lockwell, to free Oliele.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_07</column_1><column_2>Rescue Oliele from a cellar, in a cluster of ruins on the Pilgrim Road.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_08</column_1><column_2>Tell Ellinara, in Monsoon, about Oliele’s freedom.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_09</column_1><column_2>Ask around Monsoon for clues about Oliele’s location.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_10</column_1><column_2>Talk to Oliele.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_11</column_1><column_2>[Optional] Find clues in Monsoon on Zephyrien’s whereabouts.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_12</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_13</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Doubt_14</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_00</column_1><column_2>Ellinara, in the city of Monsoon, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_00-b</column_1><column_2>Talk with Ellinara, in the city of Monsoon, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_01</column_1><column_2>Meet with Oliele in the slums of Levant, in the southern part of the city. 
+
+That city is in the Abrassar desert, accessible by passing through the Enmerkar Forest first.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_02</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_03</column_1><column_2>Talk to Oliele in the Garden, with its towering dead tree, in the center of Abrassar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_04</column_1><column_2>Talk to Oliele in Old Levant, to the north-west of Abrassar, near the Vigil.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_05</column_1><column_2>Talk to Oliele inside the Stone Titan Caves, under the immense statues in the center of Abrassar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_06</column_1><column_2>Get the tablet translated by Soroborean Caravans found in any city or by Mofat in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_07</column_1><column_2>Talk to Oliele, in the city of Monsoon, inside the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_08</column_1><column_2>Go in Monsoon’s temple and talk to Oliele.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_09</column_1><column_2>Find the rebel priests hiding in a giant lotus, in the northern part of the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_10</column_1><column_2>The rebels were already dead. Talk to Oliele before leaving the lotus.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_11</column_1><column_2>You killed the rebels. Talk to Oliele before leaving the lotus.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_12</column_1><column_2>The rebels have left the Holy Mission. Talk to Oliele before leaving the lotus.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_13</column_1><column_2>Talk to Oliele in the lotus.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_14</column_1><column_2>Tell Ellinara, in Monsoon, that Oliele has left the Holy Mission.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_15</column_1><column_2>Report to Ellinara, in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_Truth_16</column_1><column_2>Talk to Cardinal Bourlamaque, in the temple in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_00</column_1><column_2>Cardinal Bourlamaque, in the city of Monsoon, will have a task for you in 3 days.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_00-b</column_1><column_2>Talk to Cardinal Bourlamaque, in Monsoon’s Temple, in the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_01</column_1><column_2>Ask around Monsoon about Levant’s agents arrested by Lockwell.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_02</column_1><column_2>Rescue the agents from a cellar in a cluster of ruins, along the Pilgrim Road between Monsoon and the way to the Chersonese.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_03</column_1><column_2>Talk with Levant’s agents in the cellar.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_03-b</column_1><column_2>Talk to Cardinal Bourlamaque, in Monsoon’s temple.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_04</column_1><column_2>Report to Cardinal Bourlamaque that Levant’s agents were slain, then prepare to end the war.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_05</column_1><column_2>Go to the city of Berg, inside the Enmerkar Forest.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_06</column_1><column_2>Give a Tribal Favor or a sum of silver to Rissa, in Berg.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_07</column_1><column_2>Go to the city of Levant, in the Abrassar Desert.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_08</column_1><column_2>Search around the city for someone with a way to enter Levant.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_09</column_1><column_2>Enter Levant using the Undercity Passage, just south of the city.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_10</column_1><column_2>Find a way into the Palace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_11</column_1><column_2>Go in the Undercity Passage and through the Palace secret path. The Passage's entrance is a red door in the slums.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_11-b</column_1><column_2>Talk to Yzan in Levant’s palace.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_12</column_1><column_2>Kill Cyrene and Yzan.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_13</column_1><column_2>Kill Cyrene.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_14</column_1><column_2>Talk with King Simeon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_14-b</column_1><column_2>Go to Monsoon’s Temple, inside the Hallowed Marsh.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_15</column_1><column_2>Go to the altar in Monsoon’s Temple.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_16</column_1><column_2>Protect Monsoon from the invading Scourge Beasts.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_17</column_1><column_2>Destroy the Corruption in Calixa’s soul.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_18</column_1><column_2>Talk to Cardinal Bourlamaque, in Monsoon.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_19</column_1><column_2>Enjoy the peace you helped to create.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_20</column_1><column_2>Your body grows weak as time passes. Eventually, you will truly die after being defeated.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_21</column_1><column_2>Move on.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_22</column_1><column_2>Give Horror Chitin, a Tribal Favor or a Coralhorn Bow to Gabriella, in Berg. The temple in Enmerkar’s south-west contains horrors.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>HM_HolyPeace_23</column_1><column_2>Convince Sagard, in Berg’s inn, to oppose the war.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="6">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Neut_Tutorial</column_1><column_2>Castaway</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Neut_CallToA</column_1><column_2>Call to Adventure</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Neut_FactCommit</column_1><column_2>Looking to the Future</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Neut_Vendavel</column_1><column_2>Vendavel</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Neut_Purifier</column_1><column_2>Purifier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Neut_Fraticide</column_1><column_2>Blood under the Sun</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_BC_MixLegacies</column_1><column_2>Mixed Legacies</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_BC_AshGiants</column_1><column_2>Ash Giants</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_BC_WhispBones</column_1><column_2>Whispering Bones</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_BC_AncPeace</column_1><column_2>Ancestral Peacemaker</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HM_Question</column_1><column_2>Questions and Corruption</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HM_Doubts</column_1><column_2>Doubts and Secrets</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HM_Truth</column_1><column_2>Truth and Purpose</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HM_HolyPeace</column_1><column_2>Hallowed Peacemaker</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HK_TendFlame</column_1><column_2>Tending the Flame</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HK_SandCorsairs</column_1><column_2>Sand Corsairs</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HK_MouthFeed</column_1><column_2>Mouths to Feed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_HK_HeroPeace</column_1><column_2>Heroic Peacemaker</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Neut_EarnedRest</column_1><column_2>Well-Earned Rest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Cierzo_BK</column_1><column_2>Craft: Blue Sand Armor</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Levant_BK</column_1><column_2>Craft: Tsar &amp; Tenebrous Armor</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Monsoon_BK</column_1><column_2>Craft: Palladium Armor</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Berg_BK</column_1><column_2>Craft: Copal &amp; Petrified Armor</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Cierzo_Alch</column_1><column_2>Alchemy: Crystal Powder</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Berg_Alch</column_1><column_2>Alchemy: Cold Stone</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Cierzo_General</column_1><column_2>Ledger to Berg</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Levant_General</column_1><column_2>Ledger to Cierzo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Monsoon_General</column_1><column_2>Ledger to Levant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Berg_General</column_1><column_2>Ledger to Monsoon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Cierzo_Cook</column_1><column_2>Need: Cierzo Ceviche</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Berg_Assassin</column_1><column_2>Need: Beast Golem Scraps</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Berg_Food</column_1><column_2>Need: Manticore Tail</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Levant_Food</column_1><column_2>Need: Shark Cartilage</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Helen</column_1><column_2>Helen’s Fungus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Lost</column_1><column_2>Lost Merchant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Treasure</column_1><column_2>Treasure Hunt</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Slum</column_1><column_2>Silver for the Slums</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_MageBackpack</column_1><column_2>Strange Apparitions</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Machine</column_1><column_2>Arcane Machine</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Mana</column_1><column_2>Acquire Mana</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Myriade</column_1><column_2>A Myriad of Bones</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Idol</column_1><column_2>Red Idol</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_GoldLich</column_1><column_2>Beware the Gold Lich</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_JadeLich</column_1><column_2>Beware the Jade Lich</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_BlueSkull</column_1><column_2>Skulls for Cremeuh</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>QName_Errand_Water</column_1><column_2>Purify the Water</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+</ooo_calc_export>

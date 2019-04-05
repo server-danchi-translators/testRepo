@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo_calc_export scriptVersion="2.2.0_qdxml" scriptUpdate="2011-03-02" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptAuthor="vjl">
+  <ooo_sheet num="1">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Archer</column_1><column_2>Desert Archer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Basic</column_1><column_2>Desert Bandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Captain</column_1><column_2>Desert Captain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Desert_Lieutenant</column_1><column_2>Desert Lieutenant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Archer</column_1><column_2>Kazite Archer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Basic</column_1><column_2>Kazite Bandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Captain</column_1><column_2>Kazite Captain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Kazite_Lieutenant</column_1><column_2>Kazite Lieutenant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_Archer</column_1><column_2>Marsh Archer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_Basic</column_1><column_2>Marsh Bandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_Captain</column_1><column_2>Marsh Captain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Marsh_CaptainArcher</column_1><column_2>Marsh Archer Captain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Archer</column_1><column_2>Bandit Archer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Basic</column_1><column_2>Bandit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Captain</column_1><column_2>Bandit Captain</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Defense</column_1><column_2>Bandit Defender</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Lieutenant</column_1><column_2>Bandit Lieutenant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_ManhunterArcher</column_1><column_2>Bandit Manhunter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_VendavelWitch</column_1><column_2>Vendavel Witch</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_IceWitch</column_1><column_2>Ice Witch</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Acolyte</column_1><column_2>Jade-Lich Acolyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Giant_Guard</column_1><column_2>Ash Giant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Giant_Plate</column_1><column_2>Ash Giant Elite</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Giant_Priest</column_1><column_2>Ash Giant Priest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Basic</column_1><column_2>Sword Golem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Beast</column_1><column_2>Beast Golem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Forge</column_1><column_2>Forge Golem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_ForgeRedHot</column_1><column_2>Molten Forge Golem</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Illuminator</column_1><column_2>Illuminator Horror</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Immaculate</column_1><column_2>Immaculate</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Shell</column_1><column_2>Shell Horror</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Armored</column_1><column_2>Armored Troglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Basic</column_1><column_2>Troglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Grenadier</column_1><column_2>Troglodyte Grenadier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Mana</column_1><column_2>Mana Troglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Metal</column_1><column_2>Troglodyte Knight</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Troglodyte_Shaman</column_1><column_2>Shaman Troglodyte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_BurningMan</column_1><column_2>Burning Man</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Ghost</column_1><column_2>Ghost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Hivelord</column_1><column_2>Hive Lord</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_LichGold</column_1><column_2>Gold Lich</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_LichGoldMinion</column_1><column_2>Golden Minion</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_LichJade</column_1><column_2>Jade Lich</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_SpecterMelee</column_1><column_2>Golden Specter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_SpecterRange</column_1><column_2>Golden Specter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_WalkingHive</column_1><column_2>Walking Hive</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_BladeDancer</column_1><column_2>Blade Dancer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_Assassin</column_1><column_2>Assassin Bug</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_Beetle</column_1><column_2>Fire Beetle</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_Mantis</column_1><column_2>Rock Mantis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Bug_MantisMana</column_1><column_2>Mana Mantis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_CrescentShark</column_1><column_2>Crescent Shark</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Deer</column_1><column_2>Coralhorn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_DeerAlpha</column_1><column_2>Alpha Coralhorn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Hound</column_1><column_2>Hyena</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_HoundArmored</column_1><column_2>Armored Hyena</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_JewelBird</column_1><column_2>Jewelbird</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Manticore</column_1><column_2>Manticore</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_ObsidianElemental</column_1><column_2>Obsidian Elemental</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_PearlBird</column_1><column_2>Pearlbird</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Phytoflora</column_1><column_2>Phytoflora</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Phytosaur</column_1><column_2>Phytosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Shrimp</column_1><column_2>Mantis Shrimp</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Steko</column_1><column_2>Stekosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Tuanosaur</column_1><column_2>Tuanosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_TuanosaurAlpha</column_1><column_2>Alpha Tuanosaur</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Wendigo</column_1><column_2>Wendigo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Skeleton</column_1><column_2>Animated Skeleton</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Skeleton2</column_1><column_2>Mad Captain’s Bones</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_PearlBird2</column_1><column_2>Pearlbird Cutthroat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Manticore2</column_1><column_2>The Royal Manticore</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_Hivelord2</column_1><column_2>Tyrant of the Hive</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Golem_Basic2</column_1><column_2>Guardian of the Compass</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Bandit_Standard_Captain2</column_1><column_2>Luke the Pearlescent</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Wildlife_Wendigo2</column_1><column_2>The First Cannibal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Undead_GhostVanasse</column_1><column_2>Ghost of Vanasse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Horror_Immaculate2</column_1><column_2>The Butcher of Men</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="2">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>FishingSpot_Fish</column_1><column_2>Fish</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Gem_Emerald</column_1><column_2>Emerald</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Gem_Ruby</column_1><column_2>Ruby</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Gem_Sapphire</column_1><column_2>Sapphire</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Misc_PearlBirdNest</column_1><column_2>Pearlbird Nest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Mushrooms_Bleeding</column_1><column_2>Blood Mushroom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Mushrooms_Green</column_1><column_2>Green Mushroom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Mushrooms_Star</column_1><column_2>Star Mushroom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Cactus</column_1><column_2>Cactus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Crabeye</column_1><column_2>Crabeye</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Gaberries</column_1><column_2>Gaberries</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_GhostPlant</column_1><column_2>Ghost Plant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_GreasyFern</column_1><column_2>Greasy Fern</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Krimp</column_1><column_2>Krimp</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Livweedy</column_1><column_2>Livweedi</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Marshmelon</column_1><column_2>Marshmelon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Rafflampy</column_1><column_2>Firefly Powder</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Seaweed</column_1><column_2>Seaweed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_SmokeRoot</column_1><column_2>Smoke Root</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Turmmip</column_1><column_2>Turmmip</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Woolshroom</column_1><column_2>Woolshroom</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_Ammolite</column_1><column_2>Ammolite</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_BlueSand</column_1><column_2>Blue Sand</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_CopalYellow</column_1><column_2>Yellow Copal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_Iron</column_1><column_2>Iron vein</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_IronRich</column_1><column_2>Rich Iron vein</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_ManaStone</column_1><column_2>Mana Stone</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_Oil</column_1><column_2>Oil</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_Palladium</column_1><column_2>Palladium vein</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_Salt</column_1><column_2>Salt Crystal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Rock_PetrifiedWood</column_1><column_2>Petrified Wood</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Plant_Tree</column_1><column_2>Tree</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="3">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Berg_Open</column_1><column_2>Enmerkar Forest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Berg_OpenDesc</column_1><column_2>Ancient forest of giant trees, with vicious arcane monsters prowling about.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Berg_Town</column_1><column_2>Berg</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Berg_TownDesc</column_1><column_2>Berg</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon1</column_1><column_2>Vendavel Fortress</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon1Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon2</column_1><column_2>Blister Burrow</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon2Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon3</column_1><column_2>Ghost Pass</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon3Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4</column_1><column_2>Conflux Chambers</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4BC</column_1><column_2>Blue Chamber’s Conflux Path</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4HM</column_1><column_2>Holy Mission’s Conflux Path</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4LV</column_1><column_2>Heroic Kingdom’s Conflux Path</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4BCDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4HMDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon4LVDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon5</column_1><column_2>Voltaic Hatchery</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon5Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon6</column_1><column_2>Corrupted Tombs</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon6Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon7</column_1><column_2>The Wail</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon7Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon8</column_1><column_2>Cierzo Storage</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon8Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon9</column_1><column_2>Montcalm Clan Fort</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_Dungeon9Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall</column_1><column_2>Chersonese Misc. Dungeons</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmallDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall1</column_1><column_2>Hyena Burrow</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall2</column_1><column_2>Bandits’ Prison</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall3</column_1><column_2>Pirates’ Hideout</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall4</column_1><column_2>Vigil Tomb</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall5</column_1><column_2>Mansion's Cellar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall6</column_1><column_2>Trog Infiltration</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall7</column_1><column_2>Starfish Cave</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall8</column_1><column_2>Hermit's House</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Chersonese_DungeonsSmall9</column_1><column_2>Immaculate's Cave</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Cierzo_Open</column_1><column_2>Chersonese</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Cierzo_OpenDesc</column_1><column_2>Cold seaside mountains, teeming with wildlife and many bandit clans.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Cierzo_Town</column_1><column_2>Cierzo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Cierzo_TownDesc</column_1><column_2>Cierzo</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_CierzoDungeon</column_1><column_2>Cierzo Dungeon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_CierzoDungeonDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon1</column_1><column_2>Jade Quarry</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon1Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon2</column_1><column_2>Giants’ Village</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon2Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon3</column_1><column_2>Reptilian Lair</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon3Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon4</column_1><column_2>Dark Ziggurat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon4_Interior</column_1><column_2>Dark Ziggurat Interior</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon4_InteriorDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon4Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon5</column_1><column_2>Spire of Light</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon5Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon6</column_1><column_2>Ziggurat Passage</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon6Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon7</column_1><column_2>Dead Roots</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_Dungeon7Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall</column_1><column_2>Marsh Misc. Dungeons</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmallDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall1</column_1><column_2>Abandoned Ziggurat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall2</column_1><column_2>Flooded Cellar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall3</column_1><column_2>Steakosaur's burrow</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall4</column_1><column_2>Hollowed Lotus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall5</column_1><column_2>Abandoned Shed</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall6</column_1><column_2>Dead Tree</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall7</column_1><column_2>Under Island</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall8</column_1><column_2>Empty-</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Hallowed_DungeonsSmall9</column_1><column_2>Immaculate's Camp</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Harmattan_Open</column_1><column_2>Antique Field</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Harmattan_OpenDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Harmattan_Town</column_1><column_2>Harmattan</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Harmattan_TownDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Levant_Open</column_1><column_2>Abrassar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Levant_OpenDesc</column_1><column_2>Blazing desert with freezing nights, with giant insects lurking in hives and ruins.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Levant_Town</column_1><column_2>Levant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Levant_TownDesc</column_1><column_2>Levant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Monsoon_Open</column_1><column_2>Hallowed Marsh</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Monsoon_OpenDesc</column_1><column_2>Toxic swamp lit by flowers and fireflies, dotted with dinosaurs nests and glowing undead.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Monsoon_Town</column_1><column_2>Monsoon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Monsoon_TownDesc</column_1><column_2>Monsoon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon1</column_1><column_2>Undercity Passage</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon1Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon2</column_1><column_2>Electric Lab</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon2Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon3</column_1><column_2>The Slide</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon3Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon4</column_1><column_2>Stone Titan Caves</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon4Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon5</column_1><column_2>Ancient Hive</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon5Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon6</column_1><column_2>Sand Rose Cave</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_Dungeon6Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall</column_1><column_2>Abrassar Misc. Dungeons</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmallDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall1</column_1><column_2>Hive Prison</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall2</column_1><column_2>Captain's Cabin</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall3</column_1><column_2>Corsairs' Headquarters</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall4</column_1><column_2>River’s End</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall5</column_1><column_2>Ruined Outpost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall6</column_1><column_2>Immaculate's Camp</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall7</column_1><column_2>Dock's Storage</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Abrassar_DungeonsSmall8</column_1><column_2>Cabal of Wind Outpost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon1</column_1><column_2>Royal Manticore’s Lair</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon1Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon2</column_1><column_2>Forest Hives</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon2Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon3</column_1><column_2>Cabal of Wind Temple</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon3Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon4</column_1><column_2>Face of the Ancients</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon4Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon5</column_1><column_2>Ancestor’s Resting Place</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon5Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon6</column_1><column_2>Necropolis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_Dungeon6Desc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall</column_1><column_2>Enmerkar Misc. Dungeons</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmallDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall1</column_1><column_2>Damp Hunter's Cabin</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall2</column_1><column_2>Worn Hunter's Cabin</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall3</column_1><column_2>Old Hunter's Cabin</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall4</column_1><column_2>Dolmen Crypt</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall5</column_1><column_2>Hive's Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall6</column_1><column_2>Burnt Outpost</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall7</column_1><column_2>Immaculate's Camp</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall8</column_1><column_2>Tree Husk</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_Emercar_DungeonsSmall9</column_1><column_2>Vigil</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_DreamWorld</column_1><column_2>In Between</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Scene_DeamWorldDesc</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="4">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Monsoon_City</column_1><column_2>Monsoon Streets</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Monsoon_Inn</column_1><column_2>Fang &amp; Claw’s Inn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Monsoon_Townhall</column_1><column_2>City Hall</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Monsoon_Up</column_1><column_2>Merchant’s Promenade</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Monsoon_Temple</column_1><column_2>Elatt’s Temple</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Monsoon_Home</column_1><column_2>Player House</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Cierzo_City</column_1><column_2>Cierzo Streets</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Cierzo_Lighthouse</column_1><column_2>Lighthouse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Cierzo_Inn</column_1><column_2>Sea-Salt Inn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Cierzo_Townhall</column_1><column_2>Town Hall</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Levant_City</column_1><column_2>Levant Streets</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Levant_Slums</column_1><column_2>Slums</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Levant_Inn</column_1><column_2>Grand Inn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Levant_Home</column_1><column_2>Player House</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Levant_Palace</column_1><column_2>Heroes’ Palace</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Berg_City</column_1><column_2>Berg Streets</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Berg_Home</column_1><column_2>Player House</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Berg_Inn</column_1><column_2>Old Coin’s Inn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Warp_Berg_BlueChamber</column_1><column_2>Blue Chamber</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="5">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Default</column_1><column_2>Interact</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Enter</column_1><column_2>Enter</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Skin</column_1><column_2>Skin {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Revive</column_1><column_2>Revive {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_MoveCorpse</column_1><column_2>Drag {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_NPC_Base_Talk</column_1><column_2>Talk to {NPCName}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_NPC_Short_Talk</column_1><column_2>Talk</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_NPC_Base_Trade</column_1><column_2>Trade with {NPCName}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_NPC_Short_Trade</column_1><column_2>Trade</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Base_DrinkWater</column_1><column_2>Drink {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Base_GatherWater</column_1><column_2>Gather {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Disassemble</column_1><column_2>Disassemble</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_DisassembleTrap</column_1><column_2>Disassemble {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_OpenContainer</column_1><column_2>Open</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Use</column_1><column_2>Use</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Loot</column_1><column_2>Loot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_TurnOff</column_1><column_2>Turn off</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Read</column_1><column_2>Read</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Equip</column_1><column_2>Equip</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Take</column_1><column_2>Take</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_Gather</column_1><column_2>Gather {ItemName}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_GatherMining</column_1><column_2>Mine {ItemName}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_ConfirmDeploy</column_1><column_2>Deploy {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Area_Travel</column_1><column_2>Travel to {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Area_Exit</column_1><column_2>Exit to {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Area_Enter</column_1><column_2>Enter {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Area_GoTo</column_1><column_2>Go to {1}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_NPC_Base_NPCInteract</column_1><column_2>Interact with {NPCName}</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Item_TakeRoot</column_1><column_2>Take Root</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Area_Rope</column_1><column_2>Climb the Rope</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_Area_Teleport</column_1><column_2>Teleport</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftShield</column_1><column_2>Craft Shield</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftHalberd</column_1><column_2>Craft Polearm</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftSpear</column_1><column_2>Craft Spear</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftMace</column_1><column_2>Craft Mace</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftMace2H</column_1><column_2>Craft Great Hammer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftAxe</column_1><column_2>Craft Axe</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftAxe2H</column_1><column_2>Craft Greataxe</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftSword</column_1><column_2>Craft Sword</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Interaction_LichReward_CraftSword2H</column_1><column_2>Craft Claymore</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="6">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rissaaberdeen_01</column_1><column_2>Rissa Aberdeen</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_alemmon_01</column_1><column_2>Alemmon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_alienore_01</column_1><column_2>Alienore</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_ancienundead_01</column_1><column_2>Myriade</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_argensonstash_01</column_1><column_2>Argenson’s Stash</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_balira_01</column_1><column_2>Balira</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_balthazar_01</column_1><column_2>Balthazar Berthelot</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_barrelman_01</column_1><column_2>Barrel Man</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_bellythemerchant_01</column_1><column_2>Gold Belly</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_berginnkeeper_01</column_1><column_2>Old Coin’s Innkeeper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_buraccarillon_01</column_1><column_2>Burac Carillon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_calixa_01</column_1><column_2>Queen Calixa</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_caravantrader_01</column_1><column_2>Soroborean Caravanner</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_cardinalbourlamaque_01</column_1><column_2>Cardinal Bourlamaque</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_cierzoinnkeeper_01</column_1><column_2>Sea-Salt Innkeeper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_clayton_01</column_1><column_2>Clayton</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_clothesshop_01</column_1><column_2>Smooth the Tailor</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_cookvendavel_01</column_1><column_2>Titatrok the Cook</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_corruptedbaron_01</column_1><column_2>Baron Montgomery</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_bourrin_01</column_1><column_2>Crock</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_cyrene_01</column_1><column_2>Cyrene</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_cyril_01</column_1><column_2>Cyril Turnbull</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_damianlockwell_01</column_1><column_2>Damian Lockwell</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_dawne_01</column_1><column_2>Dawne</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_elatt_01</column_1><column_2>Elatt</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_ellinara_01</column_1><column_2>Ellinara</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_etoakiyuki_01</column_1><column_2>Eto Akiyuki</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_altar_01</column_1><column_2>Altar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_fiveeyes_01</column_1><column_2>Five Eyes</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_gabriellasullivan_01</column_1><column_2>Gabriella Sullivan</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_galira_01</column_1><column_2>Galira</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_gatekeeper_01</column_1><column_2>Gatekeeper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_helenturnbull_01</column_1><column_2>Helen Turnbull</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_heloisearago_01</column_1><column_2>Heloise Arago</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_highlordcyr_01</column_1><column_2>Highlord Cyr</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_jagersullivan_01</column_1><column_2>Jager Sullivan</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_juliussutherland_01</column_1><column_2>Julius Sutherland</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_kapros_01</column_1><column_2>Kapros</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_kingsman_01</column_1><column_2>Kingsman</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_kirouac_01</column_1><column_2>Kirouac</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_laineaberforth_01</column_1><column_2>Laine Aberforth</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_levantguard_01</column_1><column_2>Levant Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_levantinagenta_01</column_1><column_2>Levantin Agent</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_levantinagentb_01</column_1><column_2>Levantin Agent</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_levantinnkeeper_01</column_1><column_2>Grand Innkeeper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_levantprincess_01</column_1><column_2>Levant Princess</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_lostmerchant_01</column_1><column_2>Lost Merchant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_markus_01</column_1><column_2>Markus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_mathias_01</column_1><column_2>Mathias</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_michelaberdeen_01</column_1><column_2>Michel Aberdeen</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_mofat_01</column_1><column_2>Mofat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_monsoonagent_01</column_1><column_2>Monsoon Agent</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_monsooninnkeeper_01</column_1><column_2>Fang &amp; Claw’s Innkeeper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_monsoonnovice_01</column_1><column_2>Monsoon Novice</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_nursevendavel_01</column_1><column_2>Vendavel’s Nurse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_oldlevantpetitioner_01</column_1><column_2>Alda</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_oliele_01</column_1><column_2>Oliele</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_oliele_02</column_1><column_2>Oliele</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_olielefollower_01</column_1><column_2>Oliele’s Follower</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_olielefollower_02</column_1><column_2>Oliele’s Follower</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_poorrepresent_01</column_1><column_2>Pigeoneye</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_prisonkeeper_01</column_1><column_2>Prison Keeper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_questgiver_01</column_1><column_2>Quest Giver</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_ramza_01</column_1><column_2>Rastarte</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rebelpriest_01</column_1><column_2>Rebel Priest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rebelpriest_02</column_1><column_2>Rebel Priest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rebelpriest_03</column_1><column_2>Rebel Priest</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rolandargenson_01</column_1><column_2>Roland Argenson</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rospaconqueror_01</column_1><column_2>Rospa the Conqueror</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rufus_01</column_1><column_2>Rufus</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_sagardbattleborn_01</column_1><column_2>Sagard Battleborn</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_sandcorsairguard_01</column_1><column_2>Sand Corsair Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_sandcorsairscout_01</column_1><column_2>Sand Corsair Scout</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_simeon_01</column_1><column_2>King Simeon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_soeran_01</column_1><column_2>Soeran</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_taleron_01</column_1><column_2>Taleron</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vanassetomb_01</column_1><column_2>Vanas’s Tomb</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_varaon_01</column_1><column_2>Varaon</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vendavelprisoner_01</column_1><column_2>Vendavel Prisoner</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vendavelprisoner_02</column_1><column_2>Vendavel Prisoner</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vendavelprisoner_03</column_1><column_2>Vendavel Prisoner</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vendavelprisoner_04</column_1><column_2>Vendavel Prisoner</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vendavelslave_01</column_1><column_2>Vendavel Slave</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vigildolmen_01</column_1><column_2>Dolmen</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_watcher_01</column_1><column_2>First Watcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_watcher_02</column_1><column_2>Second Watcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_watcher_03</column_1><column_2>Third Watcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_watcher_04</column_1><column_2>Fourth Watcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_watcher_05</column_1><column_2>Fifth Watcher</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_wolfbrother_01</column_1><column_2>Wolf Brother</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_yzanargenson_01</column_1><column_2>Yzan Argenson</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_zagis_01</column_1><column_2>Zagis</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_zephyrien_01</column_1><column_2>Zephyrien</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_zigguratpassagesoldier_01</column_1><column_2>Ziggurat Soldier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_zigguratpassagesoldier_02</column_1><column_2>Ziggurat Soldier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_zigguratpassagesoldier_03</column_1><column_2>Ziggurat Soldier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_cluenote_01</column_1><column_2>Note</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_immaculate_01</column_1><column_2>Immaculate</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_machine_01</column_1><column_2>Machine</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_giantcorpse_01</column_1><column_2>Giant Corpse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vendavelwitch_01</column_1><column_2>Balira</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_researcher_01</column_1><column_2>Researcher Boye</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_cremeuhayere_01</column_1><column_2>Cremeuh Ayere</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_wendigoprison_01</column_1><column_2>Wendigo Prison</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_giantbook_01</column_1><column_2>Giant Book</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_whisperingbones_01</column_1><column_2>Whispering Bones</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_bergguard_01</column_1><column_2>Berg’s Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_bluechamberscout_01</column_1><column_2>Blue Chamber Scout</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_levantsoldier_01</column_1><column_2>Levant Soldier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_smugglermessage_01</column_1><column_2>Smuggler's Message</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_hiddenreport_01</column_1><column_2>Hidden Report</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_warningnotice_01</column_1><column_2>Warning Notice</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_oldlevantreport_01</column_1><column_2>Old Levant Report</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_scribbledorders_01</column_1><column_2>Scribbled Orders</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_Pigeoneye_01</column_1><column_2>Pigeoneye</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_rosettastone_01</column_1><column_2>Rosetta Stone</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_messenger_01</column_1><column_2>Messenger</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_slumcriminal_01</column_1><column_2>Slum Criminal</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_slumpeople_01</column_1><column_2>Slum People</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_soroborbanker_01</column_1><column_2>Sorobor Banker</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_soldier_01</column_1><column_2>Soldier</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_lockwellguard_01</column_1><column_2>Lockwell's Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_talkingskull_01</column_1><column_2>Talking Skull</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_unknown_01</column_1><column_2>???</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_palacedoor_01</column_1><column_2>Palace Door</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_zephyriencorpse_01</column_1><column_2>Zephyrien’s Corpse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_youngprince_01</column_1><column_2>Prince Jaden</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_pillar_01</column_1><column_2>Pillar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_armoredwoman_01</column_1><column_2>Armored Woman</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_blondeman_01</column_1><column_2>Blonde Man</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_ladyintheback_01</column_1><column_2>Lady on the Left</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_arlum_01</column_1><column_2>Arlum</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_balthazarcorpse_01</column_1><column_2>Balthazar’s Corpse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_pilgrimcorpse_01</column_1><column_2>Pilgrim Corpse</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_crock_01</column_1><column_2>Crock</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_princepietro_01</column_1><column_2>Prince Pietro</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_door_01</column_1><column_2>Door</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_robedman_01</column_1><column_2>Robed Man</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_gatekeeper_01</column_1><column_2>Gatekeeper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_discardedorders_01</column_1><column_2>Discarded Orders</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_discardedreprimand_01</column_1><column_2>Discarded Reprimand</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_discardedwarning_01</column_1><column_2>Discarded Warning</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_discardedthreat_01</column_1><column_2>Discarded Threat</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_discardedimmaculateorder_01</column_1><column_2>Immaculate's Orders</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_hole_01</column_1><column_2>Hole</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_shockedcustomer_01</column_1><column_2>Shocked Customer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_nosycustomer_01</column_1><column_2>Nosy Customer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_killerprince_01</column_1><column_2>Killer Prince</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_mantisinstructions_01</column_1><column_2>Commander’s Instructions</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_greendancer_01</column_1><column_2>Green Dancer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_bluedancer_01</column_1><column_2>Blue Dancer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_attackinstructions_01</column_1><column_2>Attack Instructions</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_vendavelmedic_01</column_1><column_2>Vendavel Medic</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_alda_01</column_1><column_2>Alda from Old Levant</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_RedLichIdol_01</column_1><column_2>Soft Womanly Whisper</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_desertPeasant</column_1><column_2>Paul the Wanderer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_bergalchemist_01</column_1><column_2>Vay the Alchemist</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_bergblacksmith_01</column_1><column_2>Quikiza the Blacksmith</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_bergfoodstore_01</column_1><column_2>Chef Iasu</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_berggeneralstore_01</column_1><column_2>Shopkeeper Pleel</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_berghouseseller_01</column_1><column_2>House Seller Karin</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_bergassassin_01</column_1><column_2>Ogoi, Kazite Assassin</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_bergleathershop_01</column_1><column_2>-</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_cierzoalchemist_01</column_1><column_2>Helmi the Alchemist</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_cierzoblacksmith_01</column_1><column_2>Loud-Hammer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_cierzofishmonger_01</column_1><column_2>Master-Chef Arago</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_cierzofishmonger_02</column_1><column_2>Fishmonger Karl</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_cierzogeneralstore_01</column_1><column_2>Shopkeeper Doran</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_cierzoguard_01</column_1><column_2>Cierzo Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_levantalchemist_01</column_1><column_2>Tuan the Alchemist</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_levantblacksmith_01</column_1><column_2>Master-Smith Tokuga</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_levantgeneralstore_01</column_1><column_2>Shopkeeper Suul</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_levantfoodstore_01</column_1><column_2>Chef Tenno</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_levantcontrebandier_01</column_1><column_2>Tamara the Smuggler</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_levantengineer_01</column_1><column_2>Engineer Orsten</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_levanthouseseller_01</column_1><column_2>House Seller Helena</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_monsoonalchemist_01</column_1><column_2>Laine the Alchemist</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_monsoonblacksmith_01</column_1><column_2>Vyzyrinthrix the Blacksmith</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_monsoonfoodstore_01</column_1><column_2>Ountz the Melon Farmer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_monsoonguard_01</column_1><column_2>Monsoon Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_monsoonhouseseller_01</column_1><column_2>House Seller Myriam</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_monsoongeneralstore_01</column_1><column_2>Shopkeeper Lyda</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_Microtrainer_CopalGuy_01</column_1><column_2>Wandering Mercenary</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_huntertrainer_01</column_1><column_2>Ture, Hunting Trainer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_sagetrainer_01</column_1><column_2>Flase, Sage Trainer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_kazitetrainer_01</column_1><column_2>Oda, Kazite Trainer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_hermittrainer_01</column_1><column_2>Adalbert the Hermit</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_mercenarytrainer_01</column_1><column_2>Jaimon, Mercenary Trainer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_roguetrainer_01</column_1><column_2>Styx, Rogue Trainer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_philosophertrainer_01</column_1><column_2>Alemmon, Philosopher Trainer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_trainer_monktrainer_01</column_1><column_2>Galira, Monk Trainer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_JadeLich_01</column_1><column_2>Plague Doctor</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_JadeSwitch_01</column_1><column_2>Strange Machine</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_BCConfluxGuard_01</column_1><column_2>Conflux Mountain Guard</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_GoldLich_01</column_1><column_2>Light Mender</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_altarSutherland</column_1><column_2>Sutherland Family Altar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_altarAberdeen</column_1><column_2>Aberdeen Family Altar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_giantBlacksmith</column_1><column_2>Iron Sides</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_cierzoengineer_01</column_1><column_2>Etios von Vanoos, Engineer</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_merchant_hermitShop_01 </column_1><column_2>Agatha, Maiden of the Winds</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_unpc_narrator</column_1><column_2></column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_cabalAltar</column_1><column_2>Cabal of Wind Altar</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>name_corruption</column_1><column_2>Corruption</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+  <ooo_sheet num="7">
+    <ooo_row><column_1>loc_key</column_1><column_2>value</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Incendiary</column_1><column_2>Incendiary Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Incendiary_Desc</column_1><column_2>Deals moderate Fire damage and inflicts Burning.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_IncendiaryImproved</column_1><column_2>Improved Incendiary Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_IncendiaryImproved_Desc</column_1><column_2>Deals high Fire damage and inflicts Burning.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Shock</column_1><column_2>Shock Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Shock_Desc</column_1><column_2>Deals moderate Lightning damage and inflicts Confusion.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Toxic</column_1><column_2>Toxic Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Toxic_Desc</column_1><column_2>Deals moderate Decay damage and inflicts Poison.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_ToxicImproved</column_1><column_2>Improved Toxic Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_ToxicImproved_Desc</column_1><column_2>Deals high Decay damage and inflicts Severe Poison.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Gas</column_1><column_2>Nerve Gas Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Gas_Desc</column_1><column_2>Deals Ethereal damage with high Impact and inflicts Pain.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Ethereal</column_1><column_2>Ethereal Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Ethereal_Desc</column_1><column_2>Deals moderate Ethereal damage and inflicts Haunted.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Frost</column_1><column_2>Frost Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Frost_Desc</column_1><column_2>Deals high Frost damage and inflicts Slow Down.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Flash</column_1><column_2>Flash Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Flash_Desc</column_1><column_2>Deals moderate Lightning damage with high Impact.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Spike</column_1><column_2>Spike Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Spike_Desc</column_1><column_2>Deals moderate Physical damage.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Bleed</column_1><column_2>Bleed Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Bleed_Desc</column_1><column_2>Deals low Physical damage and inflicts Bleeding.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Bludgeon</column_1><column_2>Bludgeon Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_Bludgeon_Desc</column_1><column_2>Deals low Physical damage with high Impact and inflicts Confusion.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_SpikeWeak</column_1><column_2>Wood Spike Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_SpikeWeak_Desc</column_1><column_2>Deals low Physical damage, but wooden spikes can be crafted for free out of Wood.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_SpikeImproved</column_1><column_2>Improved Spike Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_SpikeImproved_Desc</column_1><column_2>Deals high Physical and inflicts Pain.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_BleedImproved</column_1><column_2>Improved Bleed Trap</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+    <ooo_row><column_1>Trap_BleedImproved_Desc</column_1><column_2>Deals moderate Physical damage and inflicts Severe Bleeding.</column_2><column_3></column_3><column_4></column_4><column_5></column_5><column_6></column_6></ooo_row>
+  </ooo_sheet>
+</ooo_calc_export>
